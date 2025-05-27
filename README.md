@@ -1,2 +1,4 @@
-"# PHP-PDO" 
-"# PHP-PDO-Bootstrap-MyTecc-Application-Approval-System-" 
+## MyTecc System using PHP-PDO
+
+### Introduction
+
